@@ -63,9 +63,10 @@
 
 ## 7. Add management functions
 
-* [7-1 Editing activities](7.-add-management-functions/7-1-editing-activities.md)
-* [7-2 update event](7.-add-management-functions/7-2-update-event.md)
-* [7-3 Join the mechanism of deletion after confirmation](7.-add-management-functions/7-3-join-the-mechanism-of-deletion-after-confirmation.md)
+* [7. Add management function](7.-add-management-functions/7.-add-management-function.md)
+* [7-1 Edit event](7.-add-management-functions/7-1-editing-activities.md)
+* [7-2 Update activity](7.-add-management-functions/7-2-update-event.md)
+* [7-3 Mechanism to delete after joining confirmation](7.-add-management-functions/7-3-join-the-mechanism-of-deletion-after-confirmation.md)
 * [7-4 Add delete function](7.-add-management-functions/7-4-add-delete-function.md)
 * [7-5 Display different content according to different identities](7.-add-management-functions/7-5-display-different-content-according-to-different-identities.md)
 * [7-6 Display labels according to different states](7.-add-management-functions/7-6-display-labels-according-to-different-states.md)
@@ -73,26 +74,26 @@
 
 ## 8. Join the registration button
 
+* [8. Join registration button](8.-join-the-registration-button/8.-join-registration-button.md)
 * [8-1 Join the registration function](8.-join-the-registration-button/8-1-join-the-registration-function.md)
 * [8-2 The interface changes after registration](8.-join-the-registration-button/8-2-the-interface-changes-after-registration.md)
 * [8-3 Cancel registration](8.-join-the-registration-button/8-3-cancel-registration.md)
 
 ## 9. New block
 
+* [9. New block](9.-new-block/9.-new-block.md)
 * [9-1 Edit block main function](9.-new-block/9-1-edit-block-main-function.md)
 * [9-2 Read two data tables at the same time](9.-new-block/9-2-read-two-data-tables-at-the-same-time.md)
 * [9-3 Block edit settings](9.-new-block/9-3-block-edit-settings.md)
 * [9-4 Adjust the block according to the block setting](9.-new-block/9-4-adjust-the-block-according-to-the-block-setting.md)
-
-## 10. Join search
-
-* [Untitled](10.-join-search/untitled.md)
+* [10. Join search](9.-new-block/untitled.md)
 
 ## 11. Add preferences
 
+* [11. Add preferences](11.-add-preferences/11.-add-preferences.md)
 * [11-1 Add tabs and apply preferences](11.-add-preferences/11-1-add-tabs-and-apply-preferences.md)
 
-## 12. How to add language constants
+---
 
-* [Untitled](12.-how-to-add-language-constants/untitled.md)
+* [12. How to add language constants](12.-how-to-add-language-constants-1.md)
 
